@@ -1,0 +1,8 @@
+﻿{
+  "Debug.RemoveAll.Book.Name": "Отладочная книга",
+  "Debug.RemoveAll.Book.Description": "Отменяет все способности от книг Баттона и возвращает эти книги в инвентарь.",
+  "Debug.RemoveAll.Book.Message": "Тебя лишили всех способностей Баттона!",
+
+  "Config.Debug.EnableDebugBook.Name": "Включить отладочную книгу",
+  "Config.Debug.EnableDebugBook.Description": "Если эта функция включена, у Пьера будет доступна отладочная книга, которая лишит вас всех ваших способностей, предоставляемых этим модом."
+}

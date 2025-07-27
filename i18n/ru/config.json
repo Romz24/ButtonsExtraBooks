@@ -1,0 +1,54 @@
+﻿{
+  "Config.SectionTitle.General": "Общие настройки",
+  "Config.SectionTitle.EnableDisable": "Включение / выключение книг",
+  "Config.SectionTitle.Prices": "Изменить цен на книги",
+  "Config.SectionTitle.Adjustments": "Отрегулируйте эффект книги",
+  "Config.SectionTitle.Debug": "Параметры отладк",
+
+  "Config.General.AlwaysAvailable.Name": "Книги всегда доступны",
+  "Config.General.AlwaysAvailable.Description": "Если эта функция включена, все книги всегда будут доступны у книготорговца без необходимости соблюдения определенных требований.",
+
+  "Config.General.Enabled.Name": "Включить",
+  "Config.General.Enabled.Description": "Если функция отключена, эта книга и ее возможности будут недоступны.",
+
+  "Config.General.Price.Description": "Стоимость приобретения книги у книготорговца. Только целые значения.",
+
+  "Config.Luck.Bonus.Name": "Удача новичка",
+  "Config.Luck.Bonus.Description": "Количество удачи, которое прибавляется после прочтения книги.",
+
+  "Config.ExtraGifts.Bonus.Name": "Еженедельный лимит подарков",
+  "Config.ExtraGifts.Bonus.Description": "Количество подарков в неделю, которые позволит делать эта книга.",
+
+  "Config.ArtisanMachines.GrangeMustWin.Name": "Вы должны победить на ярмарке Долины Звездной Росы",
+  "Config.ArtisanMachines.GrangeMustWin.Description": "Если эта опция включена, то вы должны победить на ярмарке Долины Звездной Росы, положив на витрину 6+ наиболее качественных ремесленных товаров.",
+  "Config.ArtisanMachines.Bonus.Name": "Бонус к скорости работы ремесленных машин",
+  "Config.ArtisanMachines.Bonus.Description": "Процент, на который будет сокращено время работы машин для производства соответствующих ремесленных товаров.",
+
+  "Config.GiantCrops.Bonus.Name": "Большие плоды",
+  "Config.GiantCrops.Bonus.Description": "Процентная вероятность того, что посевы ночью превратятся в гигантский плод.",
+
+  "Config.Optimization.Bonus.Name": "Дополнительный опыт",
+  "Config.Optimization.Bonus.Description": "Множитель опыта от прочтения книги.",
+
+  "Config.QiNotebook.Bonus.Name": "Шанс получить драгоценный камень Ки",
+  "Config.QiNotebook.Bonus.Description": "Дополнительная процентная вероятность того, что драгоценный камень Ки выпадет случайным образом.",
+
+  "Config.CheatCodes.Requirement.Name": "Требуемое количество смертей в Джунимо Карт",
+  "Config.CheatCodes.Requirement.Description": "Количество смертей в Джунимо Карт, прежде чем книга секретных кодов станет доступна.",
+  "Config.CheatCodes.Bonus.Name": "Дополнительные жизни",
+  "Config.CheatCodes.Bonus.Description": "Количество дополнительных жизней, с которыми вы начинаете в режиме прохождения Джунимо Карт.",
+
+  "Config.JunimoScrap.Chatter.Name": "Болтливость Джунимо",
+  "Config.JunimoScrap.Chatter.Description": "Как часто у Джунимо над головами будет появляться текст.",
+  "Config.JunimoScrap.Chatter.Never": "Никогда",
+  "Config.JunimoScrap.Chatter.Normal": "Иногда",
+  "Config.JunimoScrap.Chatter.Always": "Всегда",
+  "Config.JunimoScrap.RandomItems.Name": "Случайные предметы Джунимо",
+  "Config.JunimoScrap.RandomItems.Description": "Если эта функция включена, то вы сможете получать случайные предметы по почте от Джунимо. Возможно, это позволит получать очень редкие товары, поэтому включайте на свой страх и риск.",
+
+  "Config.Carols.Bonus.Name": "Скидка в магазине",
+  "Config.Carols.Bonus.Description": "Процент скидки в магазине - рождественская зимняя скидка.",
+
+  "Config.Coffee.Bonus.Name": "Множитель кофе",
+  "Config.Coffee.Bonus.Description": "Множитель, применяемый к длительности действия кофе и тройного эспрессо.",
+}

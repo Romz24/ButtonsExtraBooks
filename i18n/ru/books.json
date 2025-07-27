@@ -1,0 +1,76 @@
+﻿{
+  "Luck.Book.Name": "Удача новичка",
+  "Luck.Book.Description": "Прочтите эту книгу, чтобы навсегда увеличить показатель удачи на незначительную величину.",
+  "Luck.Book.Message": "Вы чувствуете больше удачи!",
+  "Luck.Power.Description": "Показатель удачи увеличивается на незначительную величину.",
+
+  "ExtraGifts.Book.Name": "Книга альтруизма",
+  "ExtraGifts.Book.Description": "После прочтения этой книги жители деревни будут принимать от вас более двух подарков в неделю.",
+  "ExtraGifts.Book.Message": "Теперь ты настоящий ухажёр!",
+  "ExtraGifts.Power.Description": "Жители деревни принимают более двух подарков в неделю.",
+
+  "TreesIgnoreSeason.Book.Name": "Зимнее лесоводство",
+  "TreesIgnoreSeason.Book.Description": "Прочитав эту книгу, вы сможете выращивать деревья в зимний сезон.",
+  "TreesIgnoreSeason.Book.Message": "Теперь деревья растут круглый год!",
+  "TreesIgnoreSeason.Power.Description": "Деревья растут круглый год.",
+
+  "ArtisanMachines.Book.Name": "Руководство Гильдии ремесленников",
+  "ArtisanMachines.Book.Description": "Техники, описанные в этой книге, помогут вам гораздо быстрее изготавливать ремесленные товары.",
+  "ArtisanMachines.Book.Message": "Теперь ремесленные машины работают быстрее!",
+  "ArtisanMachines.Power.Description": "Машины производят ремесленные товары гораздо быстрее.",
+
+  "GiantCrops.Book.Name": "Большие плоды!",
+  "GiantCrops.Book.Description": "Прочитав эту книгу, вы повысите шанс получить гигантский плод при росте культур.",
+  "GiantCrops.Book.Message": "Вы узнали секрет выращивания гигантских плодов!",
+  "GiantCrops.Power.Description": "У вас повышенный шанс на рост гигантских культур.",
+
+  "Popularity.Book.Name": "Дружба 202",
+  "Popularity.Book.Description": "Прочитав эту книгу, ваши друзья станут чаще присылать вам подарки по почте.",
+  "Popularity.Book.Message": "Твои друзья любят тебя!",
+  "Popularity.Power.Description": "Ваши друзья чаще будут присылать вам подарки по почте.",
+
+  "Optimization.Book.Name": "Оптимизация опыта",
+  "Optimization.Book.Description": "Прочитав эту книгу, вы узнаете, как получать дополнительный опыт.",
+  "Optimization.Book.Message": "Теперь у вас повышенный множитель опыта!",
+  "Optimization.Power.Description": "Увеличен прирост опыта.",
+
+  "BusDriving.Book.Name": "Вождение автобуса для чайников",
+  "BusDriving.Book.Description": "Эта книга позволит Вам научиться водить автобус и ездить самостоятельно в пустыню.",
+  "BusDriving.Book.Message": "Теперь ты умеешь водить автобус!",
+  "BusDriving.Power.Description": "Вы можете сами ездить на автобусе до Пустыни Калико.",
+
+  "QiNotebook.Book.Name": "Записная книжка Мистера Ки",
+  "QiNotebook.Book.Description": "Эти заметки Мистера Ки помогут вам найти больше случайных драгоценных камней Ки.",
+  "QiNotebook.Book.Message": "Удачи, малыш.",
+  "QiNotebook.Power.Description": "Увеличивает шансы случайно найти драгоценные камни Мистера Ки..",
+
+  "PetGifts.Book.Name": "Лаповое подкрепление",
+  "PetGifts.Book.Description": "Эта книга позволит Вам обучить своих питомцев так, чтобы они приносили Вам более лучшие подарки.",
+  "PetGifts.Book.Message": "Твоё питомец действительно любит тебя!",
+  "PetGifts.Power.Description": "Твои питомцы будут приносить более лучшие подарки.",
+
+  "CheatCodes.Book.Name": "Секретные коды для игровых автоматов",
+  "CheatCodes.Book.Description": "Вы уверены, что в этой книге где-то спрятан чит-код, который поможет вам, наконец, пройти Джунимо Карт.",
+  "CheatCodes.Book.Message": "Вверх, вверх, вниз, вниз, влево, вправо...",
+  "CheatCodes.Power.Description": "В режиме прохождения Junimo Kart вы начнете игру с большим количеством жизней.",
+
+  "JunimoScrap.Book.Name": "Альбом Джунимо",
+  "JunimoScrap.Book.Description": "Ваши Джунимо наполнили эту книгу воспоминаниями.",
+  "JunimoScrap.Book.Message": "Теперь вы стали ближе с Джунимо!",
+  "JunimoScrap.Power.Description": "Джунимо стали более разговорчивыми и будут присылать письма.",
+
+  "Carols.Book.Name": "Сборник рождественских песен",
+  "Carols.Book.Description": "Эти песни позволят получить Вам праздничное настроение на всю зиму.",
+  "Carols.Book.Message": "Вы выучили несколько рождественских песен!",
+  "Carols.Power.Description": "Владельцы магазинов предоставят вам скидку на всю зиму.",
+
+  "Coffee.Book.Name": "Самый крепкий напиток",
+  "Coffee.Book.Description": "Прочтите эту книгу, чтобы поднять потребление кофеина на новый уровень.",
+  "Coffee.Book.Message": "Теперь ты практически бариста!",
+  "Coffee.Power.Description": "Кофе и Тройной Эспрессо теперь действуют в 3 раза дольше (способность начнёт работать на следующий день после прочтения).",
+
+  "Sketchbook.Book.Name": "Детский альбом для рисования",
+  "Sketchbook.Book.Description": "Рисунки непокрытые грязью, довольно, красивы!",
+  "Sketchbook.Book.Message": "Ты чувствуешь, что есть что-то еще, что можно раскопать!",
+  "Sketchbook.Power.Description": "Повышает шансы достать редкие предметы при раскопках артефактов.",
+}
